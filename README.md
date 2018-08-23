@@ -1,0 +1,2 @@
+# DETERMING-FACTORS-IMPACTING-THE-RETENTION-RATE-IN-US-UNIVERSITIES-VIA-ENSEMBLE-ML-ALGORITHMS
+Well, this my humble attempt to find those very reasons that impact the retention rate of a student in US universities. I found the dataset from Data.gov (College Scorecard) and found it interesting to working on and helpful to those concerned. This dataset is intended for public access and use. I knew deep in my heart, that the data would surprise me. Keep reading, if you think it did.  Data Source: https://catalog.data.gov/dataset/college-scorecard
